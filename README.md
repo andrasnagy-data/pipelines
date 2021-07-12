@@ -5,4 +5,12 @@ In this project, I used pipelines to create a clustering model, as well as to cr
 **The result/conclusion is the following:**
 ![image](SVC.png)
 
+
+The clusters created by the Kmeans algorithm:
+![image](clusters.png)
+
+The classes based on the original labels:
+![image](wine_labels.png)
+
+
 The result accuracy is 98.3 % for the classification model and 96.6 % for the clustering model. 
